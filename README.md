@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Manisha
 
-<!--
-**konudulamanisha/konudulamanisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI/ML Engineer | Generative AI | LLM Applications
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered applications using:
+- Python
+- LangChain
+- RAG Pipelines
+- AWS
+- Machine Learning
+- Agentic AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+- LLM Training Data Quality Pipeline
+- RAG-Based Document Intelligence System
+- Healthcare Analytics Platform
+
+---
+
+## 🛠 Tech Stack
+Python | Pandas | SQL | AWS | FastAPI | LangChain | Git | GitHub
+
+---
+
+## 🌱 Currently Learning
+- Advanced LLM Engineering
+- Multi-Agent Systems
+- Cloud AI Deployment
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn
+- GitHub
